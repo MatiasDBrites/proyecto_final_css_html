@@ -36,20 +36,12 @@
 
 - [HTML](https://developer.mozilla.org/es/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/es/docs/Web/CSS)
-- [SASS](https://sass-lang.com/guide)
 
 ## Features
 
-Challenge to review HTML and CSS with SASS
+Challenge to review HTML and CSS
 
 ## Contact
 
 - GitHub [@MatiasDBrites](https://github.com/MatiasDBrites)
 - Hotmail [@MatiasDBrites](matias_brites@hotmail.com)
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
