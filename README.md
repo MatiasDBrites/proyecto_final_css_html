@@ -30,7 +30,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/MatiasDBrites/proyecto_final_css_html/blob/main/img/screenshot.png?raw=true)
+![screenshot](https://github.com/MatiasDBrites/proyecto_final_css_html/)
 
 ### Built With
 
